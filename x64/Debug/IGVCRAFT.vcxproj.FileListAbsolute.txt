@@ -1,0 +1,4 @@
+C:\Users\marti\source\repos\IGVCRAFT\x64\Debug\IGVCRAFT.exe
+C:\Users\marti\source\repos\IGVCRAFT\x64\Debug\IGVCRAFT.pdb
+F:\UJA\CURSO 3\IGV\Proyectos VS\IGVCRAFT\x64\Debug\IGVCRAFT.exe
+F:\UJA\CURSO 3\IGV\Proyectos VS\IGVCRAFT\x64\Debug\IGVCRAFT.pdb

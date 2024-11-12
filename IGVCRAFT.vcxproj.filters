@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos\Texturas">
+      <UniqueIdentifier>{7ce38187-904c-4e09-bc26-b7b5d5297f3d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="code\Bloque.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\Chunk.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\Enderman.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\igvCamara.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\igvColor.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\igvEscena3D.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\igvFuenteLuz.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\igvInterfaz.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\igvMaterial.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\igvPunto3D.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\igvTextura.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\Malla.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="code\pr3b.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="code\Bloque.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Chunk.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Constantes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Enderman.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\igvCamara.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\igvColor.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\igvEscena3D.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\igvFuenteLuz.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\igvInterfaz.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\igvMaterial.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\igvPunto3D.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\igvTextura.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Malla.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="textures\bedrock.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\cara.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\cobblestone.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\dirt.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\enderman.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\glowstone.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\grassSide.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\grassUp.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\leaves.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\logSide.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\logUp.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\stone.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+    <Image Include="textures\wood.jpg">
+      <Filter>Archivos de recursos\Texturas</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Link al zip en Drive.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Link video.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Memoria.docx">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+  </ItemGroup>
+</Project>
